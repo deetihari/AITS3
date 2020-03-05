@@ -21,7 +21,7 @@
 2. DRUM STICK 
 
 ### IMAGES
-![annamacharya](https://www.google.com/search?q=annamacharya&rlz=1C1CHBD_enIN863IN863&tbm=isch&source=iu&ictx=1&fir=72Fc1bdrr8-qEM%253A%252CLgGUvoqfmFqpeM%252C%252Fm%252F01)
+![annamacharya](/wiki/Annamacharya#/medihttps://en.wikipedia.orga/File:Annamacharya.jpg)
 
 ### LINK
 [GITHUB](HTTP://GITHUB.COM)
