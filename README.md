@@ -26,4 +26,10 @@ https://www.google.com/imgres?
 (https://upload.wikimedia.org/wikipedia/commons/3/37/Annamacharya.jpg)
 
 ### LINK
-GITHUB
+[GITHUB](HTTP://GITHUB.COM)
+### BLOCK QUOTES
+
+THE LEGEND ONCE SAID
+> "LIFE IS LIKA A LEMON UNDER THE TRACTOR TYRE"
+
+\*LITERALS*\
